@@ -8,7 +8,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://www.yusufyesilyurt.com/](https://www.burakdev.live/)
 
-- 📝 I (un)regularly write articles on [https://medium.com/@yesilyurt](https://medium.com/@yesilyurt)
+- 📝 I write articles on [https://medium.com/@yesilyurt](https://medium.com/@yesilyurt)
 
 - 📫 How to reach me **y.yesilyurt14@gmail.com**
 
