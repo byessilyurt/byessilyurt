@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yusuf Yesilyurt</h1>
-<h3 align="center">a self-taught web developer eager to discover more about JS everyday.</h3>
+<h3 align="center">Highly motivated Javascript developer with a passion for creating interactive and user-friendly apps, always eager to learn and experiment with new technologies to take my skills to the next level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byessilyurt&label=Profile%20views&color=0e75b6&style=flat" alt="byessilyurt" /> </p>
 
