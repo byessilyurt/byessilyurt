@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **y.yesilyurt14@gmail.com**
 
-- ⚡ Interesting fact **I am a law graduate and moved Poland to get a Master's degree in Computer Science.**
+- ⚡ Interesting fact **I am a law graduate and I've moved to Poland to get a Master's degree in Computer Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
