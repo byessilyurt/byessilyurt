@@ -1,4 +1,5 @@
-<h3 align="center">Highly motivated Javascript developer with a passion for creating interactive and user-friendly apps, always eager to learn and experiment with new technologies to take my skills to the next level.</h3>
+<h3 align="center">Dedicated software developer with a strong proficiency in JavaScript, driven by a passion for crafting interactive and user-centric applications. Adept at learning and implementing new technologies, I am continuously seeking opportunities to enhance my skill set and contribute to the growth of the development community.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byessilyurt&label=Profile%20views&color=0e75b6&style=flat" alt="byessilyurt" /> </p>
 
