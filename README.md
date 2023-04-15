@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/byessilyurt" target="blank"><img src="https://img.shields.io/twitter/follow/byessilyurt?logo=twitter&style=for-the-badge" alt="byessilyurt" /></a> </p>
 
-- 🔭 I’m currently working on [Study Buddy Web Application using React and Firebase]
+- 🔭 I’m currently working on [Study Buddy Matching App and Lost & Found Community App]
 
 - 👨‍💻 Some of my projects are available at [https://www.yusufyesilyurt.com/](https://www.burakdev.live/)
 
