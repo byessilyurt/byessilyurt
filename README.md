@@ -1,7 +1,6 @@
 <h3 align="center">Dedicated software developer with a strong proficiency in JavaScript, driven by a passion for crafting interactive and user-centric applications. Adept at learning and implementing new technologies, I am continuously seeking opportunities to enhance my skill set and contribute to the growth of the development community.
 </h3>
 
-<p align="left"> <a href="https://twitter.com/byessilyurt" target="blank"><img src="https://img.shields.io/twitter/follow/byessilyurt?logo=twitter&style=for-the-badge" alt="byessilyurt" /></a> </p>
 
 - 🔭 I’m currently working on [Study Buddy Matching App and Lost & Found Community App]
 
@@ -27,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=byessilyurt&show_icons=true&locale=en&layout=compact" alt="byessilyurt" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byessilyurt&label=Profile%20views&color=0e75b6&style=flat" alt="byessilyurt" /> </p>
+<p align="left"> <a href="https://twitter.com/byessilyurt" target="blank"><img src="https://img.shields.io/twitter/follow/byessilyurt?logo=twitter&style=for-the-badge" alt="byessilyurt" /></a> </p>
+
