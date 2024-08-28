@@ -1,17 +1,3 @@
-<h3 align="center">Dedicated software developer with a strong proficiency in JavaScript, driven by a passion for crafting interactive and user-centric applications. Adept at learning and implementing new technologies, I am continuously seeking opportunities to enhance my skill set and contribute to the growth of the development community.
-</h3>
-
-
-- 🔭 I’m currently working on [Study Buddy Matching App and Lost & Found Community App]
-
-- 👨‍💻 Some of my projects are available at [https://www.yusufyesilyurt.com/](https://www.burakdev.live/)
-
-- 📝 I write articles on [https://medium.com/@yesilyurt](https://medium.com/@yesilyurt)
-
-- 📫 How to reach me **y.yesilyurt14@gmail.com**
-
-- ⚡ Interesting fact **I am a law graduate and I've moved to Poland to get a Master's degree in Computer Science.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/byessilyurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="byessilyurt" height="30" width="40" /></a>
